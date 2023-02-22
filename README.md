@@ -1,7 +1,5 @@
-# bit09exercises
-# Ejericios
+# BIT09EXERCISES
+Iniciando proyecto nuevo
 
-Es un nuevo proyecto enfocado a ejercicios de react
-
-## Autor 
-Wendy Alejandra Carlos Muñoz
+### autor
+Wendy Alejandra Carlos
