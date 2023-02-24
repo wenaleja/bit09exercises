@@ -8,7 +8,7 @@ export const Nav = () => {
   return (
     <BrowserRouter>
     <nav className='py-4 text-center bg-primary'>
-      <Link className='mx-3 text-light' to="/Inicio">Inicio</Link>
+      <Link className='mx-3 text-light' to="/">Inicio</Link>
       <Link className='mx-3 text-light' to="/Ejercicios">Ejercicios</Link>
     </nav>
     <Routes>
