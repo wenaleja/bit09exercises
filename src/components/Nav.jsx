@@ -12,7 +12,7 @@ export const Nav = () => {
       <Link className='mx-3 text-light' to="/Ejercicios">Ejercicios</Link>
     </nav>
     <Routes>
-      <Route path='/Inicio' element={<Inicio/>}></Route>
+      <Route path='/' element={<Inicio/>}></Route>
       <Route path='/Ejercicios' element={<Ejercicios/>}></Route>
     </Routes>
     </BrowserRouter>
